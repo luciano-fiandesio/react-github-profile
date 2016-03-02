@@ -23,5 +23,7 @@ have a simpler directory structure, containing only one folder, _app_.
 
 To run the application in the _HtmlWebpackPlugin_ branch, type:
 
-  npm install
-  npm run dev
+   npm install
+   npm run start
+
+Now, browse to 'http://localhost:8080'.
